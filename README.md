@@ -1,4 +1,9 @@
 # 📈 Sales Forecast Model — Walmart Weekly Sales  
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Time%20Series-orange)
+![Prophet](https://img.shields.io/badge/Prophet-Forecasting-green)
+
 **Author:** Ana C. Carrasco  
 **Tools:** Python, Pandas, Matplotlib, Statsmodels, Prophet, Excel  
 
