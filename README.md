@@ -138,5 +138,5 @@ Presenting both models reflects a realistic decision-making process commonly use
 
 ## 📂 Related Files
 - 📓 **Notebook:** `Sales_Forecast_Walmart.ipynb`  
-- 📁 **Dataset:** Walmart Store Sales Forecasting (Kaggle)  
+- 📁 **Dataset:** Walmart Store Sales Forecasting ([Kaggle](https://www.kaggle.com/datasets/micgonzalez/walmart-store-sales-forecasting))  
 - 📊 **Visualizations:** Included in notebook outputs  
